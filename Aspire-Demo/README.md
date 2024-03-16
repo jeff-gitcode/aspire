@@ -5,9 +5,9 @@
 3. ServiceDefaults:  Aspire shared project
 4. Web: front-end UI
 
-![alt text](./Doc/aspire-demo.png)
+![alt text](./doc/aspire-demo.png)
 
-![alt text](./Doc/aspire-demo2.png)
+![alt text](./doc/aspire-demo2.png)
 
 ## Tech Stack
  - [x] Aspire 
